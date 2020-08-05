@@ -1,0 +1,73 @@
+[
+  {
+    "templateName": "Controller.ftl",
+    "view": false,
+    "packageName": "rest",
+    "suffix": "Controller",
+    "fileType": "java"
+  },
+  {
+    "templateName": "DTO.ftl",
+    "view": false,
+    "packageName": "domain.dto",
+    "suffix": "DTO",
+    "fileType": "java"
+  },
+  {
+    "templateName": "VO.ftl",
+    "view": false,
+    "packageName": "domain.vo",
+    "suffix": "VO",
+    "fileType": "java"
+  },
+  {
+    "templateName": "Entity.ftl",
+    "view": false,
+    "packageName": "domain",
+    "suffix": "",
+    "fileType": "java"
+  },
+  {
+    "templateName": "QueryCriteria.ftl",
+    "view": false,
+    "packageName": "domain.query",
+    "suffix": "QueryCriteria",
+    "fileType": "java"
+  },
+  {
+    "templateName": "Repository.ftl",
+    "view": false,
+    "packageName": "repository",
+    "suffix": "Repository",
+    "fileType": "java"
+  },
+  {
+    "templateName": "Service.ftl",
+    "view": false,
+    "packageName": "service",
+    "suffix": "Service",
+    "fileType": "java"
+  },
+  {
+    "templateName": "ServiceImpl.ftl",
+    "view": false,
+    "packageName": "service.impl",
+    "suffix": "ServiceImpl",
+    "fileType": "java"
+  },
+  {
+    "templateName": "Index.ftl",
+    "filename": "index",
+    "view": true,
+    "packageName": "src.pages",
+    "suffix": "",
+    "fileType": "tsx"
+  },
+  {
+    "templateName": "Api.ftl",
+    "view": true,
+    "packageName": "src.services",
+    "suffix": "",
+    "fileType": "ts"
+  }
+]
